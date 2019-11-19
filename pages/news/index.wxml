@@ -1,0 +1,5 @@
+<view class="newsBox">
+  <view  bindtap="viewItemClick" data-item="{{item}}" wx:key="{{item.id}}" class="news" wx:for="{{listInfo}}">
+    {{item && item.name}}
+  </view>
+</view>

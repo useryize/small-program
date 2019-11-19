@@ -1,4 +1,0 @@
-<view class="main">
-  <input class="input" auto-focus placeholder="将会获取焦点" />
-  <button>确定</button>
-</view>
