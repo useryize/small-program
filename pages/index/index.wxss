@@ -1,0 +1,8 @@
+/**index.wxss**/
+.main {
+  padding: 15px
+}
+.input {
+  border: #cdcdcd solid 1px;
+  height: 40px;
+}
